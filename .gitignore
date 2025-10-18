@@ -1,7 +1,9 @@
 # Python
 __pycache__/
-*.pyc
 .venv/
+*.pyc
+*.py[cod]
+*$py.class
 
 # Database
 data/data_notes.db
