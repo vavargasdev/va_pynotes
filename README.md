@@ -1,6 +1,6 @@
 # VaPyNotes - A Simple Python Notes Application
 
-VaPyNotes is a straightforward desktop application for taking and managing text-based notes, built with Python and the wxPython GUI toolkit.
+VaPyNotes is a desktop application for taking and managing text-based notes, built with Python and the wxPython GUI toolkit.
 
 The main focus is on usability, allowing for quick retrieval and simultaneous viewing of multiple notes organized by categories.
 
@@ -13,11 +13,11 @@ The main focus is on usability, allowing for quick retrieval and simultaneous vi
 -   **Clean and Lightweight Interface**: A minimal UI that stays out of your way.
 -   **Customizable**: Configure UI colors and the number of notes displayed on the screen via the `data/config.ini` file.
 
-<!-- ![PyNotes Application Screenshot](https://raw.githubusercontent.com/vavargasdev/va_pynotes/refs/heads/main/PyNotesSS.jpg) -->
+![PyNotes Application Screenshot](https://raw.githubusercontent.com/vavargasdev/va_pynotes/refs/heads/main/PyNotesSS.jpg)
 
 ## Status
 
-**Under Development**. Currently tested on Windows.
+**Under Development**. Currently tested on Windows only.
 
 ## Installation and Usage
 
@@ -48,7 +48,7 @@ The main focus is on usability, allowing for quick retrieval and simultaneous vi
     ```
 
 3.  **Install Requirements:**
-    Install the necessary Python packages.
+    Install the necessary Python packages. For now wxpython.
     ```bash
     pip install -r requirements.txt
     ```
