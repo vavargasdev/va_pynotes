@@ -1,3 +1,7 @@
+<div align="right">
+<a href="./README-pt.md">Ler em português</a>
+</div>
+
 # VaPyNotes - A Simple Python Notes Application
 
 VaPyNotes is a desktop application for taking and managing text-based notes, built with Python and the wxPython GUI toolkit.
