@@ -17,7 +17,7 @@ O foco principal é a usabilidade, permitindo a recuperação rápida e a visual
 -   **Interface Limpa e Leve**: Uma UI mínima que não atrapalha seu fluxo de trabalho.
 -   **Customizável**: Configure as cores da interface e o número de anotações exibidas na tela através do arquivo `data/config.ini`.
 
-!Screenshot da Aplicação PyNotes
+![PyNotes Application Screenshot](https://raw.githubusercontent.com/vavargasdev/va_pynotes/refs/heads/main/PyNotesSS.jpg)
 
 ## Status
 
